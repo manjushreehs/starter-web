@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manjushree -- Staff Data Engineer -- manjushree929@gmail.com
 
 # THANKS
 
