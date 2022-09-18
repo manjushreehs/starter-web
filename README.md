@@ -14,4 +14,6 @@ This is the purpose section
 
 ## How to contribute
 
+Fork the repo and then issue pull requests for review
+
 ###Cpoyright
